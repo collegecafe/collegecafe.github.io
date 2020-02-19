@@ -2,6 +2,10 @@
   font-family: sans-serif;
 }
 
+.jumbotron {
+  margin-top: 0; 
+}
+
 ul {
   list-style-type: none;
   margin: 0;
